@@ -1,0 +1,54 @@
+.textField {
+    display: flex;
+    width: 100%;
+    height: 51px;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .active {
+    border: 1px solid black;
+    color: #9f9f9f;
+  }
+  
+  .good {
+    border: 500px solid #126a00;
+    color: black;
+  }
+  
+  .error {
+    border: 1px solid #6A0000;
+    color: black;
+  }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+  
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+  
+ 
+  .title {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+  
+  
+  .asterisk {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: #AA0000;
+  }
+  

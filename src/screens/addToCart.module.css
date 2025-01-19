@@ -1,0 +1,86 @@
+.hr {
+    border: none;
+    border-top: 2px solid #BABABA;
+    width: 100%;
+    padding-left: 4px;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    padding: 50px;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+    width: 100%;
+    
+  }
+
+  .instructions {
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    align-items: flex-start;
+  }
+
+  .stepper {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    width: 100%;
+  }
+  
+  .itemList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .itemRow {
+    display: flex;
+    align-items: center;
+    gap: 40px; 
+    margin: 0, 20px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    color: #9F9F9F;
+  }
+  
+  .connector {
+    width: 100%;
+  }
+  
+  .products {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .buttonWrapper {
+    display: flex;
+    justify-content: flex-end; 
+  }
+  
+  .title {
+    width: 77%;
+  }
+
+  .quantity {
+    width: 150px;
+    justify-content: flex-start;
+  }
+
+  .price{
+    width: 94px;
+}
+
+  .products {
+    gap: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}

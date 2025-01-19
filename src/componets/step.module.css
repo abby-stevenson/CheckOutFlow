@@ -1,0 +1,23 @@
+.step-component {
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+  }
+  
+  
+  .step-text {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif; 
+    text-align: center;
+    line-height: 1
+  }
+  
+  .grey-text {
+    color: #9F9F9F;
+  }
+  
+  .default-text {
+    color: black;
+  }
+  
+  

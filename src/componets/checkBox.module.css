@@ -1,0 +1,20 @@
+.container {
+    display: inline-block;
+    
+  }
+  
+  .container input[type="checkbox"]{
+    appearance: none;
+    width: 40px; 
+    height: 40px; 
+    border: 1px solid black;
+    border-radius: 8px;
+    
+  }
+
+  .container input[type="checkbox"]:checked {
+    appearance: none;
+    background: url('../assets/Check.jpg');
+    background-color: #3300FF;
+    align-content: center;
+  }

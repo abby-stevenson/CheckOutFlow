@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .connector {
+    flex: 1;
+    margin: 0 20px;
+  }
+  
+  .connector hr {
+    border: none;
+    border-top: 2px solid #BABABA;
+    width: 100px;
+    padding-left: 4px;
+  }
+  
