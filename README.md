@@ -1,3 +1,16 @@
+# Check Out Flow 
+
+*Pictures coming soon*
+
+The API Server is no longer running so the code will not run at the moment.
+
+Mock data if nothing is retrieved from the API call is coming soon. 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
